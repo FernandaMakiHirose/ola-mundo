@@ -32,7 +32,7 @@ O webpack pega todos o código e transforma em um código que nosso compilador e
 `node_modules`: é o segundo diretório, aqui estão todas as bibliotecas do projeto <br>
 `src`: é o 3 diretório, aqui está todo o código fonte da aplicação <br>
 `app` aqui vamos colocar todos o nosso código-fonte <br>
-`assets` coloca as imagens
-`environments`: cria uma versão de produção ou desenvolvimento
-`main.ts`: faz a inicialização do Angular na aplicação
-`polyfills.ts`: adiciona bibliotecas externas
+`assets` coloca as imagens <br>
+`environments`: cria uma versão de produção ou desenvolvimento <br>
+`main.ts`: faz a inicialização do Angular na aplicação <br>
+`polyfills.ts`: adiciona bibliotecas externas <br>
