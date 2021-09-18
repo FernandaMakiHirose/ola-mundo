@@ -28,10 +28,10 @@ Abra o projeto no navegador:
 O webpack pega todos o código e transforma em um código que nosso compilador entenda
 
 ## Entendendo o código
-`app.e2e-spec.ts`: navega até a página principal e busca os h1 e vê se contém as frases que você definiu `app.po.ts`, `tsconfig.e2e.json`
-`node_modules`: é o segundo diretório, aqui estão todas as bibliotecas do projeto
-`src`: é o 3 diretório, aqui está todo o código fonte da aplicação
-`app` aqui vamos colocar todos o nosso código-fonte
+`app.e2e-spec.ts`: navega até a página principal e busca os h1 e vê se contém as frases que você definiu `app.po.ts`, `tsconfig.e2e.json` <br> 
+`node_modules`: é o segundo diretório, aqui estão todas as bibliotecas do projeto <br>
+`src`: é o 3 diretório, aqui está todo o código fonte da aplicação <br>
+`app` aqui vamos colocar todos o nosso código-fonte <br>
 `assets` coloca as imagens
 `environments`: cria uma versão de produção ou desenvolvimento
 `main.ts`: faz a inicialização do Angular na aplicação
