@@ -1,4 +1,6 @@
 # Projeto Olá Mundo com o Angular
+![Screenshot_2](https://user-images.githubusercontent.com/72028645/133898228-8e44f0b6-8f45-489e-b46a-013c374e2416.png)
+
 ## Requisitos
 - Angular CLI
 - NodeJS
